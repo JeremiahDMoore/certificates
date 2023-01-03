@@ -22,3 +22,4 @@ https://analytics.google.com/analytics/academy/certificate/7dKmBo6OTcKlcr-5hocsI
 
 ### Chingu - Completion of Voyage 41 
 issued Nov 2022<br> 
+https://github.com/JeremiahDMoore/certificates/blob/master/Chingu_V41_-_Comp_Cert_-_Geckos_10_-_Jeremiah_Moore.pdf
