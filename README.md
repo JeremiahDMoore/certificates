@@ -23,3 +23,7 @@ https://www.freecodecamp.org/certification/jdmoore/front-end-development-librari
 ### Chingu - Completion of Voyage 41 
 issued Nov 2022<br> 
 https://github.com/JeremiahDMoore/certificates/blob/master/Chingu_V41_-_Comp_Cert_-_Geckos_10_-_Jeremiah_Moore.pdf
+
+### 100 Devs - Completion of 30 week bootcamp
+issued Dec 2022<br>
+https://github.com/JeremiahDMoore/certificates/blob/master/Jeremiah%20Moore%20Certificate.pdf
