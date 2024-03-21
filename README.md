@@ -1,7 +1,7 @@
 # Certificates I have earned
 
 ### Google Cloud Skills Generative AI Badges
-Feb 2024 - current
+Feb 2024 - current<br>
 https://www.cloudskillsboost.google/public_profiles/49ecee5a-8654-471e-9e24-8635e4f5ea52
 
 ### 100 Devs - Completion of 30 week bootcamp
