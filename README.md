@@ -24,6 +24,10 @@ https://analytics.google.com/analytics/academy/certificate/7dKmBo6OTcKlcr-5hocsI
 issued Aug 2021<br>
 https://skillshop.exceedlms.com/student/award/vrpKQScGibVYcHpw6wAsF7ds
 
+### Udemy - Android Oreo Development Course
+issued May 2021<br> 
+https://github.com/JeremiahDMoore/certificates/blob/master/Android_Oreo_Developer_Course.pdf
+
 ### freeCodeCamp - Algorithms and Data Structures
 issued Oct 2020<br>
 https://www.freecodecamp.org/certification/jdmoore/javascript-algorithms-and-data-structures
